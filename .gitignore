@@ -1,0 +1,8 @@
+# Ignor all files from tmp
+tmp/
+
+#ignore all files Thumbs&DS_Store
+Thumbs.db
+.DS_Store
+*_old
+*_backup
